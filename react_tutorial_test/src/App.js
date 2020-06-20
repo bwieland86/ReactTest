@@ -31,6 +31,7 @@ class Hello extends Component {
     return (
       <div className = "Hello">
       <h1>Hello Brian!</h1>
+      <h1>Hello Lael!</h1>
       </div>
     )
   }
