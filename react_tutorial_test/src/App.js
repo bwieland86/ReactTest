@@ -30,7 +30,7 @@ class Hello extends Component {
   render() {
     return (
       <div className = "Hello">
-      <h1>Hello React!</h1>
+      <h1>Hello Brian!</h1>
       </div>
     )
   }
